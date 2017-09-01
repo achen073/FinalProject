@@ -29,3 +29,8 @@ Dual Blinks Pressed Correct = +2
 OFF
 To power down the unit, simply unplug the USB or power plug.
 The high score will be saved to EEPROM and can be viewed at a later time upon 
+
+
+
+
+disclaimer: i couldn't fully test this C code, and i wasn't able to test it on my breadboard because I broke a couple components.  This is all I can submit.  
